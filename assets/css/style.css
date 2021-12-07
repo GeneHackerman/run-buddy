@@ -12,6 +12,7 @@ body {
 
     /* apply styles to <header> */
     header {
+        /* color of box */
         padding: 20px 35px;
         background-color: #39a6b2;  
     }
@@ -90,7 +91,7 @@ body {
     .hero-form {
         border: 3px solid #024e76; 
         background-color: #fce138;
-        padding: 20px;
+        padding: 20px; 
         width: 500px; 
         color: #024e76;
         position: absolute;
