@@ -12,3 +12,5 @@ https://lerantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Rafael Arias
+
+### ©2019 Run Buddy, Inc
