@@ -206,15 +206,6 @@ body {
         border-color: #39a6b2;
     }
 
-    /* remove this entire css rule */
-    .intro h2{
-
-    }
-    /* and this one */
-    .steps h2 {
-        
-    }
-
     .step h3 {
         color: #024e76;
         font-size: 46px;
