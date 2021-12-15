@@ -153,6 +153,8 @@ body {
 
     /* Hero Style End */
 
+    /*section titles start */
+
     .intro h2 {
         font-size: 55px;
         color: #024e76;
@@ -203,6 +205,10 @@ body {
         border-color: #39a6b2;
     }
 
+    /* section title end */
+
+    /* what you do style start */
+
     .step h3 {
         color: #024e76;
         font-size: 46px;
@@ -250,6 +256,8 @@ body {
     .step-text {
         flex: 12;
     }
+
+    /* what you do style end */
 
     .text-left {
         text-align: left;
